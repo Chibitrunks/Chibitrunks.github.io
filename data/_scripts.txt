@@ -1,0 +1,35 @@
+Skill 1 Attack: Damage Formula: a.atk * 4 - b.def * 2
+Skill 3 Dual Attack: Damage Formula: a.atk * 4 - b.def * 2
+Skill 4 Double Attack: Damage Formula: a.atk * 4 - b.def * 2
+Skill 5 Triple Attack: Damage Formula: a.atk * 4 - b.def * 2
+Skill 8 Fireball: Damage Formula: a.atk
+Skill 9 Explosion: Damage Formula: a.atk
+Skill 10 Shooting Gush of Fire: Damage Formula: a.atk
+Skill 37 Alpha Strike: Damage Formula: 10 + a.atk * 0.2 + a.mat * 0.5
+Item 18 Fire Grenade: Damage Formula: 5 + a.mat * 0.3
+Item 19 Thunder Grenade: Damage Formula: 5 + a.mat * 0.3
+Item 20 Ice Grenade: Damage Formula: 5 + a.mat * 0.3
+Item 21 Poison Grenade: Damage Formula: 5 + a.mat * 0.3
+Map 1 MAP001 - Event 1 EV001 (86,58) - Page 1 Line 1:  - Conditional Branch script call: $game_player.region_id == 1
+Map 1 MAP001 - Event 1 EV001 (86,58) - Page 1 Line 2:  - Script call: picture_position(10,2)
+Map 1 MAP001 - Event 1 EV001 (86,58) - Page 1 Line 3:  - Script call: picture_position(10,3)
+Map 1 MAP001 - Event 1 EV001 (86,58) - Page 1 Line 4:  - Script call: picture_position(10,4)
+Map 1 MAP001 - Event 1 EV001 (86,58) - Page 1 Line 5:  - Script call: picture_position(10,5)
+Map 1 MAP001 - Event 1 EV001 (86,58) - Page 1 Line 6:  - Script call: picture_position(10,6)
+Map 1 MAP001 - Event 1 EV001 (86,58) - Page 1 Line 7:  - Script call: picture_position(10,7)
+Map 1 MAP001 - Event 1 EV001 (86,58) - Page 1 Line 8:  - Script call: picture_position(10,8)
+Map 1 MAP001 - Event 1 EV001 (86,58) - Page 1 Line 9:  - Script call: picture_position(10,9)
+Map 2 Campsite - Event 23 EV023 (14,7) - Page 1 Line 20:  - Script call: call_party_menu
+Map 5 World Map - Human World - Event 6 EV006 (39,44) - Page 1 Line 1:  - Script call: ms_pro_cam_focus_on(-1)
+Map 6 Kasite Castle 2F - Event 10 EV010 (42,10) - Page 1 Line 1:  - Script call: ms_pro_cam_focus_on(-1)
+Map 8 Dragon world - Castle - Event 8 EV008 (33,38) - Page 1 Line 4:  - Script call: ms_pro_cam_focus_on(7)
+Map 8 Dragon world - Castle - Event 8 EV008 (33,38) - Page 1 Line 5:  - Script call: ms_pro_cam_str(50)
+Map 8 Dragon world - Castle - Event 8 EV008 (33,38) - Page 2 Line 1:  - Script call: ms_pro_cam_focus_on(9)
+Map 8 Dragon world - Castle - Event 8 EV008 (33,38) - Page 2 Line 2:  - Script call: ms_pro_cam_str(70)
+Map 11 Kasite Castle 1F - Event 4 EV004 (37,24) - Page 1 Line 3:  - Script call: ms_pro_cam_focus_on(3)
+Map 11 Kasite Castle 1F - Event 5 EV005 (35,24) - Page 1 Line 1:  - Script call: ms_pro_cam_focus_on(-1)
+Map 12 Dragon world - Castle - Event 5 EV005 (36,38) - Page 1 Line 4:  - Script call: ms_pro_cam_focus_on(7)
+Map 12 Dragon world - Castle - Event 5 EV005 (36,38) - Page 1 Line 5:  - Script call: ms_pro_cam_str(20)
+Map 12 Dragon world - Castle - Event 5 EV005 (36,38) - Page 2 Line 1:  - Script call: ms_pro_cam_focus_on(9)
+Map 12 Dragon world - Castle - Event 5 EV005 (36,38) - Page 2 Line 2:  - Script call: ms_pro_cam_str(70)
+Map 14 Town - Event 32 EV032 (24,13) - Page 1 Line 1:  - Script call: ms_pro_cam_focus_on(-1)

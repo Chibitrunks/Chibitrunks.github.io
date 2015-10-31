@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"list":[{"code":101,"indent":0,"parameters":["",0,0,1]},{"code":401,"indent":0,"parameters":["Would you like to make camp here?"]},{"code":102,"indent":0,"parameters":[["Yes","No","Nevermind"],2,0,2,0]},{"code":402,"indent":0,"parameters":[0,"Yes"]},{"code":101,"indent":1,"parameters":["chibifacesets",6,0,1]},{"code":401,"indent":1,"parameters":["Yeah, its a good idea to camp now"]},{"code":122,"indent":1,"parameters":[81,81,0,3,7,0,0]},{"code":122,"indent":1,"parameters":[100,100,0,3,5,-1,0]},{"code":122,"indent":1,"parameters":[99,99,0,3,5,-1,1]},{"code":201,"indent":1,"parameters":[0,2,14,12,0,0]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"No"]},{"code":101,"indent":1,"parameters":["chibifacesets",5,0,2]},{"code":401,"indent":1,"parameters":["Na, Camping is not my thing"]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"Nevermind"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"transfer to camp","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":101,"indent":0,"parameters":["",0,0,1]},{"code":401,"indent":0,"parameters":["Transform?"]},{"code":102,"indent":0,"parameters":[["Yes","No"],1,0,2,0]},{"code":402,"indent":0,"parameters":[0,"Yes"]},{"code":212,"indent":1,"parameters":[-1,18,false]},{"code":202,"indent":1,"parameters":[2,1,82,100,99]},{"code":206,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"No"]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Get on dragon","switchId":8,"trigger":2},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":5,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":6,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":7,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":8,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":9,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":10,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]

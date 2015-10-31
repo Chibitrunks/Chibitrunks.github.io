@@ -1,0 +1,21 @@
+[
+null,
+null,
+{"id":2,"expanded":false,"name":"Campsite","order":1,"parentId":0,"scrollX":1786.909090909091,"scrollY":993.8181818181819},
+{"id":3,"expanded":false,"name":"worldmap - Dragon World","order":2,"parentId":0,"scrollX":1769.4545454545455,"scrollY":1406.1818181818182},
+{"id":4,"expanded":false,"name":"BLACKNESS","order":3,"parentId":0,"scrollX":1786.909090909091,"scrollY":993.8181818181819},
+null,
+{"id":6,"expanded":false,"name":"Kasite Castle 2F","order":9,"parentId":11,"scrollX":1216,"scrollY":684},
+null,
+{"id":8,"expanded":false,"name":"Dragon world - Castle","order":4,"parentId":0,"scrollX":1769.4545454545455,"scrollY":1798.909090909091},
+null,
+null,
+{"id":11,"expanded":true,"name":"Kasite Castle 1F","order":8,"parentId":16,"scrollX":1769.4545454545455,"scrollY":993.8181818181819},
+null,
+null,
+null,
+{"id":15,"expanded":true,"name":"World 1","order":5,"parentId":0,"scrollX":3244.3636363636365,"scrollY":2320.3636363636365},
+{"id":16,"expanded":true,"name":"Castle","order":7,"parentId":18,"scrollX":1769.4545454545455,"scrollY":1102.909090909091},
+null,
+{"id":18,"expanded":true,"name":"Normal Town","order":6,"parentId":15,"scrollX":1786.909090909091,"scrollY":993.8181818181819}
+]
